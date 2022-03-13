@@ -21,6 +21,9 @@ I have created this smart contract in order to implement the main idea in genera
     6- Adding a candidate to the list of participants;
     7- Selling NFT and dividing shares;
     ///////////////////////////////////////////////////////////////////////////////////
+    
+    //@dev Look at supported primitive idea in : "https://github.com/partenon62/polygon-ethereum-nextjs-marketplace/" contain Front-End and codes.
+    
 ## * The written smart contract presents a general idea and has security issues. Avoid using it directly and without changing it in real projects.
 
 Reza,
